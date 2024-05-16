@@ -9,3 +9,4 @@ def mask_account(acc_number: str) -> str:
     """Функция принимает строку и возвращаем маскировку счета"""
     new_string = f"** {acc_number[-4:]}"
     return new_string
+# изменение проги
